@@ -1,0 +1,14 @@
+{
+    "compra":{
+        "id":1,
+        "Fecha de la compra":"",
+        "Información del proveedor":"",
+        "Productos comprados":{
+            "nombre":"",
+            "cantidad":"",
+            "precio de compra":""
+        }
+    }
+
+
+}
