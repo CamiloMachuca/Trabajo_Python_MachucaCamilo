@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "Fecha": "2024-08-07",
+        "InformacionCliente": {
+            "nombreCliente": "Proveedor",
+            "direccion": "11212"
+        },
+        "Productosvendidos": [
+            {
+                "nombre": "productoooo",
+                "cantidad": "3",
+                "preciodeventa": "500"
+            }
+        ],
+        "Empleado": {
+            "nombreEmpleado": "productoooo",
+            "cargoEmpleado": "vendedor"
+        }
+    }
+]

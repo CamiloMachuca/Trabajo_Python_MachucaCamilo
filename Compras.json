@@ -1,14 +1,32 @@
-{
-    "compra":{
-        "id":1,
-        "Fecha de la compra":"",
-        "Información del proveedor":"",
-        "Productos comprados":{
-            "nombre":"",
-            "cantidad":"",
-            "precio de compra":""
+[
+    {
+        "compra": {
+            "id": 1,
+            "Fecha": "2024-08-07",
+            "Informacion del proveedor": {
+                "nombre": "Proveedor",
+                "contacto": "1121221221"
+            },
+            "Productos comprados": {
+                "nombre": "producto1",
+                "cantidad": "6",
+                "precio de compra": "500"
+            }
         }
+    },
+    {
+        "id": 2,
+        "fecha": "2024-08-07",
+        "Informaci\u00f3n del proveedor": {
+            "nombre": "vyub",
+            "contacto": "byugb"
+        },
+        "productos": [
+            {
+                "nombre": "hgcrd",
+                "cantidad": 2,
+                "precioCompra": 2000.0
+            }
+        ]
     }
-
-
-}
+]
